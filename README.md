@@ -3,23 +3,34 @@
 
 > :construction: Projeto em construção :construction:
 ## Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa) -  ok
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
+Iniciando meus estudos em programacao, pong foi o meu primeiro projeto feito em aula. Utilizando a ferramenta Java Script escrita no pj5.com
 * [Status do Projeto](#status-do-Projeto)
+Finalizado
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
+Para visualizar os codigos na plataforma e tambem executar o programa, acesse o link abaixo:
+https://editor.p5js.org/DevZilio/sketches/zKChTT6Py
+
+Clique no botao com a seta para iniciar.
+
+Utilize o mouse para controlar a raquete e defender a bola contra seu oponente artificial.
+
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
+Criacao by DevZilio
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+Este foi meu primeiro contato com a programacao, onde pude ter o prazer de ver meus codigos se tornando um jogo jogavel utilizando design, fisica, comandos, sons e acessibilidade via mouse
 
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://mega.nz/file/CGYXWKRB#CSlQMQdTi_c1SaiASWpzogbpKsSk7coGax5n2UtJKtY" width=115><br><sub>Paulo Zilio</sub>](https://github.com/DevZilio) |
 | :---: | :---: | :---: |
 
 ````
