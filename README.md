@@ -30,7 +30,7 @@ Este foi meu primeiro contato com a programacao, onde pude ter o prazer de ver m
 
 ## Autores
 
-| [<img src="https://mega.nz/file/CGYXWKRB#CSlQMQdTi_c1SaiASWpzogbpKsSk7coGax5n2UtJKtY" width=115><br><sub>Paulo Zilio</sub>](https://github.com/DevZilio) |
+| [<img src="https://avatars.githubusercontent.com/u/105543270?s=96&v=4" width=115><br><sub>Paulo Zilio</sub>](https://github.com/DevZilio) |
 | :---: | :---: | :---: |
 
 ````
